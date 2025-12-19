@@ -1,56 +1,7 @@
 {
   "templates": {
     "type": "JSON",
-    "content": [
-      {
-        "id": "149117333",
-        "Flight": "WS2453",
-        "PickupDate": "2025-12-18",
-        "PickupTime": "10:15",
-        "HotelName": "Krystal Grand Nuevo Vallarta",
-        "HotelNumber": 13074
-      },
-      {
-        "id": "148324442",
-        "Flight": "WS2151",
-        "PickupDate": "2025-12-18",
-        "PickupTime": "10:15",
-        "HotelName": "Krystal Grand Nuevo Vallarta",
-        "HotelNumber": 13074
-      },
-      {
-        "id": "148529682",
-        "Flight": "WS2151",
-        "PickupDate": "2025-12-18",
-        "PickupTime": "10:15",
-        "HotelName": "Krystal Grand Nuevo Vallarta",
-        "HotelNumber": 13074
-      },
-      {
-        "id": "148567943",
-        "Flight": "WS2113",
-        "PickupDate": "2025-12-18",
-        "PickupTime": "09:30",
-        "HotelName": "Krystal Grand Nuevo Vallarta",
-        "HotelNumber": 13074
-      },
-      {
-        "id": "145688393",
-        "Flight": "WS2251",
-        "PickupDate": "2025-12-18",
-        "PickupTime": "11:15",
-        "HotelName": "Krystal Grand Nuevo Vallarta",
-        "HotelNumber": 13074
-      },
-      {
-        "id": "146950733",
-        "Flight": "WS2113",
-        "PickupDate": "2025-12-18",
-        "PickupTime": "09:30",
-        "HotelName": "Krystal Grand Nuevo Vallarta",
-        "HotelNumber": 13074
-      }
-    ],
+    "content": [],
     "source": {
       "data_source": "Google Sheets (Private)",
       "update_frequency": "Automated"
