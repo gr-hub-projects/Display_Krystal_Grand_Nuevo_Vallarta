@@ -1,7 +1,16 @@
 {
   "templates": {
     "type": "JSON",
-    "content": [],
+    "content": [
+      {
+        "id": "71-6554056",
+        "Flight": "VB8033",
+        "PickupDate": "2025-12-25",
+        "PickupTime": "12:50",
+        "HotelName": "Krystal Grand Nuevo Vallarta",
+        "HotelNumber": 13074
+      }
+    ],
     "source": {
       "data_source": "Google Sheets (Private)",
       "update_frequency": "Automated"
